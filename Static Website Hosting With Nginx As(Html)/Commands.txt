@@ -1,0 +1,10 @@
+Steps:
+	1-Base Image Consist Dependencies Like JVM Or App Cli
+	2-Build Dockerfile
+	3-Run Docker Desktop
+	4-Run Docker Container
+	5-Go To Browser And write[localhost:80]
+Commands:
+	$  docker build -t webserver-image:v1 .
+	$  docker run -d -p 80:80 webserver-image:v1
+	$  docker ps
