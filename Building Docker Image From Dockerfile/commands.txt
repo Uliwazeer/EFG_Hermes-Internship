@@ -1,0 +1,23 @@
+Steps:
+	1-Dockerfile > Docker Image > Docker Container > Access The App
+	2-Create A New Directory
+	3-Create Dockerfile 
+
+Commands:
+	$ docker build . 
+	$ docker image ls
+	$ docker container run  dc14886da735
+	$ docker container run  dc14886da735
+	$ docker build --tag EFG-Hermes . 
+	$ docker image ls
+	$ docker container run efg-holding 
+	$ docker build --tag efg-holding2 .
+	$ docker image ls
+	$ docker container run efg-holding2
+	
+
+
+
+
+
+alpine == is the smallest copy linux exist
