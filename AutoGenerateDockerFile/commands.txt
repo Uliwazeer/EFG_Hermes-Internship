@@ -1,0 +1,23 @@
+on deploying a .NET application as a container without the use of a Dockerfile. In the upcoming sections, you will discover an alternative approach to containerize your .NET application, simplifying the deployment process. By following the step-by-step instructions provided, you will learn how to achieve this without relying on conventional Dockerfile setups.
+
+Deploying a .NET App without a Dockerfile
+In the following steps, we will delve into the process of deploying a .NET app as a container without the necessity of a Dockerfile.
+
+Before proceeding, ensure you have the essential prerequisites in place for this process, including:
+
+A .NET application ready for containerization
+Basic understanding of containerization concepts
+Step-by-Step Guide
+Let’s explore the comprehensive guide to deploying a .NET app without a Dockerfile.
+
+Step 1: Build the .NET Application
+Begin by creating a simple .NET console application. The following code snippet showcases a basic “Hello, World!” program in C#:
+
+commands:
+	 $ dotnet tool install --global dotnet-build-image
+	 $ dotnet new web --output devopsapp
+	 $ dotnet build-image -t devopsapp 
+	 $ docker run -p 80:8080 devopsapp  
+	 $ dotnet build
+	 $ dotnet build-image -t devopsapp
+go to browser and write localhosr:81
