@@ -1,0 +1,23 @@
+$ npm init -y
+$ npm install express
+$ node index.mjs
+$ npm start
+$ docker build . -t aliwazeer/k8s-webserver
+$ docker image ls 
+$ docker login
+$ docker push aliwazeer/k8s-webserver
+$ kubectl create deployment k8s-webserver
+$ kubectl create deployment k8s-webserver --image=aliwazeer/k8s-webserver
+$ kubectl get all
+$ kubectl get deploy
+$ kubectl get all 
+$ kubectl expose deployment k8s-webserver --port=3000
+$ kubectl get svc  
+$  kubectl scale deployment k8s-webserver --replicas=6
+$ kubectl get all  
+$ kubectl get pods
+$ minikube ssh
+$ kubectl delete svc k8s-webserver   
+$ kubectl expose deployment k8s-webserver --type=NodePort --port=3000
+$ kubectl get svc 
+$ minikube service k8s-webserver
