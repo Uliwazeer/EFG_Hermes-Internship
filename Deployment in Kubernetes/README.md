@@ -69,6 +69,11 @@ Feel free to customize the deployment manifest as per your specific requirements
 ### 02. Image3
 ![image3](https://github.com/user-attachments/assets/a4f16394-2517-4dd4-801e-c1ef4189b2a8)
 
+### 03. Deploy In Local Push On Docker Hub
+![DockerHubPush](https://github.com/user-attachments/assets/baebd087-5383-49b5-b48a-9747ed9feea9)
+
+
+
 
 ### 03. Image4
 ![image4](https://github.com/user-attachments/assets/0fe7d7ec-7007-46bb-9f82-3604ef70b54f)
