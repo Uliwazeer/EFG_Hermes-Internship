@@ -97,5 +97,6 @@ From the sprint backlog, multi-select the items to move and then select the cont
 ![sprint-backlog-multi-select-non-sequential-items](https://github.com/user-attachments/assets/2b4e8bdf-7780-490d-af8f-f62a8eae5df8)
 
 
-
+.>### REFERENCE
+https://learn.microsoft.com/en-us/azure/devops/boards/sprints/task-board?view=azure-devops
 
