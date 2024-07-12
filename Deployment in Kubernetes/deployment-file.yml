@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: efg-hermes-internship
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: efg-hermes-internship
+  template:
+    metadata:
+      labels:
+        app: efg-hermes-internship
+    spec:
+      containers:
+      - name: efg-hermes-internship
+        image: nginx
+        ports:
+        - containerPort: 80
