@@ -108,3 +108,8 @@ sudo systemctl status prometheus
 Step 9: Access Prometheus Web Interface
 
 Access the Prometheus web interface by opening your browser and navigating to your EC2 instance’s public IP address on port 9090 (e.g., http://your-instance-ip:9090).
+
+### prometheus Dashboard
+![prometheus-dashboard](https://github.com/user-attachments/assets/b7827f99-eb1f-4fe4-b25f-5546817303a2)
+
+
