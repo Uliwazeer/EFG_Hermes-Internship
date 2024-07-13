@@ -156,3 +156,8 @@ Click “Import.”
 Step 27: Explore Node Exporter Metrics
 
 You now have access to a wide range of metrics from Node Exporter on your Grafana dashboard. These metrics include CPU, Memory, Network, and more. You can explore and customize the dashboard further to suit your monitoring needs.
+
+### Grafana Dashboard
+![Grafana-dashboard](https://github.com/user-attachments/assets/8bb471a0-2c4d-4a1f-be95-a3d562417f3f)
+
+########
