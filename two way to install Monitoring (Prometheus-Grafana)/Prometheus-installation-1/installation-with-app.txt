@@ -1,0 +1,6 @@
+-go to bin files
+-open cmd gui in 
+-write commands "dir"
+-prometheus.exe
+-go to browser and write "localhost:9090"
+-edit in prometheus.yml and add ip your machine

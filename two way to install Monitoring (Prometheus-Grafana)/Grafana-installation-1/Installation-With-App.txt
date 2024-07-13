@@ -1,0 +1,25 @@
+https://prometheus.io/download/
+
+$dir
+$prometheus.exe
+
+go to browser and write >>> localhost:9090
+
+
+
+REFRENCES
+
+https://www.youtube.com/watch?v=2Y5MKnkIWaI
+
+https://www.youtube.com/watch?v=PlO0WNwyDmE
+
+https://www.youtube.com/watch?v=jj38y6f6UpE
+
+https://www.youtube.com/watch?v=yrscZ-kGc_Y
+
+
+RUN Prometheus With Docker Compose
+https://medium.com/@vishnurajlegna/2023-effortless-setup-of-prometheus-node-exporter-and-grafana-on-aws-ec2-ubuntu-22-04-f65d62dd39aa
+
+RUN Grafana WITH DOCKER COMPOSE
+https://www.atlantic.net/dedicated-server-hosting/how-to-install-grafana-and-prometheus-on-ubuntu-22-04/
