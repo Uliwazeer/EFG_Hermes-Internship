@@ -57,3 +57,8 @@ We look forward to welcoming you to the EFG-Hermes family and helping you embark
 ## RabbitMQ (Link >>https://github.com/Uliwazeer/EFG_Hermes-Internship/tree/master/RabbitMQ)
 ## Static Website Hosting With Nginx As(Html) (Link >>https://github.com/Uliwazeer/EFG_Hermes-Internship/tree/master/Static%20Website%20Hosting%20With%20Nginx%20As(Html))
 ## Two way to install Monitoring (Prometheus-Grafana) (Link >>https://github.com/Uliwazeer/EFG_Hermes-Internship/tree/master/two%20way%20to%20install%20Monitoring%20(Prometheus-Grafana))
+## create file .exe open calculator (Link >>https://github.com/Uliwazeer/EFG_Hermes-Internship/blob/master/EFG_Herms2.exe)
+## Make Website From Not Secure (http) Into Secure Website (https) (Link >>https://github.com/Uliwazeer/EFG_Hermes-Internship/tree/master/Make%20Website%20From%20Not%20Secure%20(http)%20Into%20Secure%20Website%20(https))
+## Deploy Jenkins With Helm (Link >>https://github.com/Uliwazeer/EFG_Hermes-Internship/tree/master/Jenkins-Helm)
+## Jenkins (Link >>https://github.com/Uliwazeer/EFG_Hermes-Internship/tree/master/Jenkins)
+
